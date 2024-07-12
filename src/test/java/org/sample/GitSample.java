@@ -7,6 +7,8 @@ public class GitSample {
 		System.out.println("test3");
 		System.out.println("test4");
 		System.out.println("test5");
+		System.out.println("test 6");
+		System.out.println("test 7");
 	}
 
 }
